@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'ICONS Lab'
+    org_name: 'Intelligent Control Systems Lab'
     description: 'Intelligent Control Systems Laboratory, Northern Arizona University, machine learning and control.'
     twitter: ''
   analytics:
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} ICONS Lab.'
+    notice: '© {year} Intelligent Control Systems (ICONS) Lab.'
     license:
       enable: false
       allow_derivatives: false
