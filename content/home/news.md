@@ -3,7 +3,7 @@
 widget: pages
 headless: true
 weight: 30
-active: false
+active: true
 
 title: Latest News
 subtitle:
@@ -12,7 +12,7 @@ content:
   count: 5
   filters:
     author: ''
-    category: ''
+    category: 'news'
     exclude_featured: false
     publication_type: ''
     tag: ''
@@ -20,6 +20,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
+  view: compact
   columns: '1'
 ---
