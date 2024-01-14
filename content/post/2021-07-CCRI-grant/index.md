@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "We received $1.4M NSF CCRI grant"
+title: "New $1.4M NSF CCRI grant"
 subtitle: ""
 summary: "Our lab is part of an NAU team receiving a grant of $1.4M from the National Science Foundation."
 authors: [lab]
 tags: [funding,2021]
 categories: [news]
-date: 2021-07-01
-lastmod: 2023-08-09T22:51:26-07:00
+date: 2021-07-15
+lastmod: 2021-07-01
 featured: false
 draft: false
 

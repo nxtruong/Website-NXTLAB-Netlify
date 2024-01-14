@@ -20,11 +20,12 @@ bio: Truong Nghiem is an Assistant Professor of Electrical Engineering and the d
 
 # Interests to show in About widget
 interests:
-- Control systems
-- Machine learning and control
-- Cyber-physical systems
-- Smart energy systems
-- Security for cyber-physical systems
+  - Control systems
+  - AI/Machine learning and control
+  - Cyber-physical systems
+  - Smart & autonomous systems # , including smart buildings, smart grids, robots
+  - Smart energy systems, robotics
+  - Security for cyber-physical systems
 
 # Education to show in About widget
 education:

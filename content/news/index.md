@@ -3,6 +3,18 @@ title: News
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      text: >
+        {{% callout note %}}
+        This website had a new design in January 2024.  Old news pieces prior to 2021 have not been imported to the new website.
+        {{% /callout %}}
+
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+
   - block: collection
     id: news
     content:
@@ -34,7 +46,7 @@ sections:
       # Choose a listing view
       view: list
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 
   - block: collection
     id: news
@@ -67,7 +79,7 @@ sections:
       # Choose a listing view
       view: list
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 
   - block: collection
     id: news
@@ -100,8 +112,8 @@ sections:
       # Choose a listing view
       view: list
       # Choose single or dual column layout
-      columns: '1'
-      
+      columns: '2'
+
   - block: collection
     id: news
     content:
@@ -133,7 +145,7 @@ sections:
       # Choose a listing view
       view: list
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 
   - block: collection
     id: news
@@ -166,7 +178,7 @@ sections:
       # Choose a listing view
       view: list
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 
   - block: collection
     id: news
@@ -199,5 +211,5 @@ sections:
       # Choose a listing view
       view: list
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 ---
