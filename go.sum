@@ -1,10 +1,16 @@
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7-0.20240103201801-ab509c2f0725 h1:caXrDxETnfNuKYpMay+4nOsrKw/ZEFUFwoA29LB7ct8=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7-0.20240103201801-ab509c2f0725/go.mod h1:xZiTEEurbEwj/NhZohozvlyLCGVCT2wARHDAJeqKG/c=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7-0.20240113175046-d9af47ca37ee h1:roZvBRyVViefJOJAxZOJiWJBNanY+v3c6+HL02AgeC4=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7-0.20240113175046-d9af47ca37ee/go.mod h1:xZiTEEurbEwj/NhZohozvlyLCGVCT2wARHDAJeqKG/c=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1 h1:6GsVeNtYhzl14LLJRFRV1AonKGq8ZAduep/uiK5oEF4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.2-0.20240103201801-ab509c2f0725 h1:HytzUX2pbUbBorCRQS3Bo+SDGt53cLE0lKonDtJv9so=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.2-0.20240103201801-ab509c2f0725/go.mod h1:Njlsj3S1Z833TdX1nacJZzsiwGGhOq4Nilzo2BH/wQ8=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.2-0.20240113175046-d9af47ca37ee h1:iz/0j4ngqqEXPCb7c8bcjs1RHLA6Gok9nokRnEY1710=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.2-0.20240113175046-d9af47ca37ee/go.mod h1:Njlsj3S1Z833TdX1nacJZzsiwGGhOq4Nilzo2BH/wQ8=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240103201801-ab509c2f0725 h1:sWN/m0CytxHHKihmEmu1idQaf0YU6/4vflp6d/Lv+U8=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240103201801-ab509c2f0725/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240113175046-d9af47ca37ee h1:fGwISglgaKDj0ZKXkR973rXPRP7cy67l1fDYh45DtQ8=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240113175046-d9af47ca37ee/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2 h1:ccb5jQLKqiFFht24e6+yW9eie1yIm81/K1xhs7ZHZlM=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=

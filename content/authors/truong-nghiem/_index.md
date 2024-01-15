@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:truongnghiem@nau.edu'
+  link: 'mailto:truong.nghiem@nau.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/truongnghiem

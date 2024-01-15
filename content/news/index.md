@@ -3,18 +3,41 @@ title: News
 type: landing
 
 sections:
-  - block: markdown
+  - block: collection
+    id: news
     content:
-      text: >
-        {{% callout note %}}
-        This website had a new design in January 2024.  Old news pieces prior to 2021 have not been imported to the new website.
-        {{% /callout %}}
-
+      title: News in 2024
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - post
+        author: ""
+        category: "news"
+        tag: "2024"
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      columns: '1'
+      # Choose a listing view
+      view: list
+      # Choose single or dual column layout
+      columns: '2'
       spacing:
         padding: ['20px', '0', '20px', '0']
-
+        
   - block: collection
     id: news
     content:
@@ -47,6 +70,8 @@ sections:
       view: list
       # Choose single or dual column layout
       columns: '2'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     id: news
@@ -80,6 +105,8 @@ sections:
       view: list
       # Choose single or dual column layout
       columns: '2'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     id: news
@@ -113,6 +140,8 @@ sections:
       view: list
       # Choose single or dual column layout
       columns: '2'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     id: news
@@ -146,6 +175,8 @@ sections:
       view: list
       # Choose single or dual column layout
       columns: '2'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     id: news
@@ -179,6 +210,8 @@ sections:
       view: list
       # Choose single or dual column layout
       columns: '2'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     id: news
@@ -212,4 +245,6 @@ sections:
       view: list
       # Choose single or dual column layout
       columns: '2'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 ---
