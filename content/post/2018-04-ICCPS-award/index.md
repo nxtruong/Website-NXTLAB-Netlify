@@ -28,5 +28,4 @@ image:
 projects: []
 ---
 
-Our paper "Learning and Control using Gaussian Processes: Towards bridging machine learning and controls for physical systems" won the **best paper award** at the ACM/IEEE International Conference on Cyber-Physical Systems ([ICCPS](http://iccps.acm.org/2018/)), part of the CPS Week 2018. ICCPS's tweet about our award:
-  {{< tweet 985222267666870279 >}}
+Our paper "Learning and Control using Gaussian Processes: Towards bridging machine learning and controls for physical systems" won the **best paper award** at the ACM/IEEE International Conference on Cyber-Physical Systems ([ICCPS](http://iccps.acm.org/2018/)), part of the CPS Week 2018.
