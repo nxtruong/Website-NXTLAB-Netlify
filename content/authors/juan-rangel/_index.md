@@ -16,7 +16,7 @@ organizations:
   url: https://nau.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Juan Rangel is a graduate student in the ICONS Lab.
+bio: Juan Rangel is a graduate student in the iCPS Lab.
 
 # Interests to show in About widget
 interests:

@@ -8,8 +8,8 @@
 appearance:
   theme_day: ocean # options (for both): minimal, ocean
   theme_night: # minimal, ocean
-  font: native # options: native, minimal, rose, cyberpunk, 'Mr Robot'
-  font_size: M
+  font: cyberpunk # options: native, minimal, rose, cyberpunk, 'Mr Robot', classic
+  font_size: m
 
 # SEO
 

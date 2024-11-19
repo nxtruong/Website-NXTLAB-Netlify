@@ -6,17 +6,19 @@ title: Truong X. Nghiem
 superuser: false
 
 # Role/position/tagline
-role: Assistant Professor and Director
+role: Associate Professor and Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Informatics, Computing, and Cyber Systems
-  url: https://nau.edu/siccs
-- name: Northern Arizona University
-  url: https://nau.edu
+- name: Department of Electrical and Computer Engineering
+  url: https://www.ece.ucf.edu/
+- name: College of Engineering and Computer Science
+  url: https://www.cecs.ucf.edu/
+- name: University of Central Florida
+  url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Truong Nghiem is an Assistant Professor of Electrical Engineering and the director of the ICONS Lab.
+bio: Dr. Truong Nghiem is an Associate Professor and the director of the iCPS Lab.
 
 # Interests to show in About widget
 interests:
@@ -44,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:truong.nghiem@nau.edu'
+  link: 'mailto:truong.nghiem@ucf.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/truongnghiem
@@ -67,7 +69,7 @@ social:
 #   link: files/cv.pdf
 
 # Email for Contact widget or Gravatar
-email: "truong.nghiem@nau.edu"
+email: "truong.nghiem@ucf.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -80,8 +82,8 @@ user_groups:
 ---
 <!-- [*Personal Website*](http://truongnghiem.com) -->
 
-Dr. Truong X. Nghiem is an Assistant Professor and Assistant Chair of Electrical Engineering at the [School of Informatics, Computing, and Cyber Systems (SICCS)](https://nau.edu/school-of-informatics-computing-and-cyber-systems) at [Northern Arizona University (NAU)](https://nau.edu).
-He is the founder and director of the [Intelligent Control Systems (ICONS) Laboratory](http://nxtlab.org).
+
+Dr. Truong X. Nghiem is an Associate Professor in the [Department of Electrical and Computer Engineering](https://www.ece.ucf.edu/), with a secondary joint appointment in the [School of Modeling, Simulation, and Training](https://www.ist.ucf.edu/), in the [College of Engineering and Computer Science](https://www.cecs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/).  He is the founder and director of the [Intelligent Cyber-Physical Systems (iCPS) Laboratory](http://nxtlab.org).
 
 Dr. Nghiem received his Ph.D. in Electrical and Systems Engineering from the [University of Pennsylvania](https://www.upenn.edu).
 Before joining NAU, he was a postdoctoral scientist in the [Automatic Control Laboratory](https://la.epfl.ch) at EPFL (Switzerland), and a postdoctoral researcher at Penn.

@@ -10,35 +10,24 @@ sections:
       title:
       subtitle:
       text: |
-        # Intelligent Control Systems (ICONS) Laboratory
+        # Intelligent Cyber-Physical Systems (iCPS) Laboratory
 
-        {{% callout warning %}}
+        <!-- {{% callout warning %}}
         The website is being updated.
-        {{% /callout %}}
+        {{% /callout %}} -->
 
-        At the ICONS Lab, we develop the **learning and control foundation of intelligent cyber-physical systems**, with applications in autonomous systems.
-        <!-- we develop theory, algorithms, tools, technologies, and applications of *intelligent and high-performance control systems*. -->
-        <!-- These systems are at the core of many complex and critical engineering systems. -->
-        An *intelligent cyber-physical system* (iCPS) integrates deeply machine learning (ML) and artificial intelligence (AI) for decision and real-time control of a CPS to achieve *high performance*, *adaptability*, *autonomy*, and *safety*.
-        By integrating learning, AI, control, and optimization, we create methods, algorithms, and engineering solutions for autonomous learning and real-time operation of iCPS.
-        Our research and research approaches are multi-disciplinary, combining theories and techniques from
-        - *Computer science*: machine learning, AI, scientific computing;
-        - *Electrical and computer engineering*: control theory, edge computing, internet-of-things (IoT), sensors, embedded systems;
-        - *Applied mathematics*: optimization theory, dynamical systems;
-        - and various application domains.
+        At the iCPS Lab, we develop _**autonomous and intelligent cyber-physical systems** using **control, optimization, machine learning / artificial intelligence, and advanced computing**_.
+        An iCPS integrates tightly machine learning and AI for decision and real-time control of a CPS to achieve *high performance*, *adaptability*, *autonomy*, and *safety*.
+        Our research approach integrates learning, AI, control, optimization, and computing to create methods, algorithms, and engineering solutions for iCPS.
 
-        We are particularly interested in the following application areas:
-        - **AI-enabled smart and sustainable energy systems** such as smart buildings, connected communities, smart grids, smart cities.
-        - **Smart environment sensing and monitoring systems** such as mobile robotic sensor networks (MRSN), wireless sensor networks, IoT sensing and monitoring in the built environments.
-        - **Data-driven control and optimization**.
+        Our research is both _**fundamental**_ and _**applied**_.  The bedrock of our research is a *fundamental research thrust* that advances the theoretical and algorithmic foundation of learning and control of iCPS.  Our *practical research thrusts* focus on developing smart and autonomous systems in various application domains and on building cyberinstructures for iCPS.
+        
+        The iCPS Lab is in the [Department of Electrical and Computer Engineering](https://www.ece.ucf.edu/), [College of Engineering and Computer Science](https://www.cecs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/) (UCF).
+        We are also affiliated with the [School of Modeling, Simulation, and Training](https://www.cecs.ucf.edu/smst/).
 
-        <!-- - **Learning-based intelligent control systems** that combine machine learning (and AI), computing, optimization, and control theory.  Applications are in energy systems (particularly smart buildings and connected communities), multi-agent systems (e.g., mobile sensing networks), and transportation (e.g., advanced driver-assistance systems, self-driving cars, autonomous drones). -->
+        <!-- [**Learn more about our research**](research) or [**join our lab**](#join) -->
 
-        The ICONS Lab is in the [School of Informatics, Computing, and Cyber Systems](https://nau.edu/siccs) at [Northern Arizona University](https://nau.edu/).
-
-        [**Explore our research**](research) or [**join our lab**](#join)
-
-        [Current opportunities](/opportunities)
+        <!-- [Current opportunities](/opportunities) -->
 
     design:
       columns: '1'
@@ -66,7 +55,6 @@ sections:
     design:
       view: compact
       columns: '1'
-  
   - block: contact
     id: contact
     content:
@@ -74,20 +62,21 @@ sections:
       autolink: true
 
       # Contact details (edit or remove options as required)
-      email: truong.nghiem@nau.edu
+      email: truong.nghiem@ucf.edu
       address:
-        street: 1295 S. Knoles Dr.
-        city: Flagstaff
-        region: AZ
-        postcode: '86011'
+        street: BYC-CMMS 109, 12701 Scholarship Dr
+        city: Orlando
+        region: FL
+        postcode: '32816'
         country: United States
         country_code: US
       coordinates:
-        latitude: '35.1862'
-        longitude: '-111.6583'
-      directions: Enter Building 90 (SICCS), go straight then turn left just before the elevator
+        latitude: '28.5948'
+        longitude: '-81.2024'
+      directions: Enter Barbara Ying Center - CMMS (Building 81), go to room 109
       # appointment_url: 'https://calendly.com'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+
 ---

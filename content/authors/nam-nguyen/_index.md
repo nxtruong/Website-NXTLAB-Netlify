@@ -16,7 +16,7 @@ organizations:
   url: https://nau.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Nam Nguyen is a graduate student in the ICONS Lab.
+bio: Nam Nguyen is a graduate student in the iCPS Lab.
 
 # Interests to show in About widget
 interests:
@@ -73,4 +73,4 @@ user_groups:
 ---
 Nam T. Nguyen received a B.S. in Control Engineering and Automation from Hanoi University of Science and Technology, Vietnam in 2023. From 2021 to 2023, he worked as a research assistant in the Control Techniques and Innovation Laboratory for Electric Vehicles.
 
-Currently, he is a PhD student and working as a graduate research assistant in the Intelligent Control Systems (ICONS) Laboratory at Northern Arizona University. His research interests include motion control of electric vehicles and physics-informed machine learning for dynamical systems.
+Currently, he is a PhD student and working as a graduate research assistant at Northern Arizona University. His research interests include motion control of electric vehicles and physics-informed machine learning for dynamical systems.

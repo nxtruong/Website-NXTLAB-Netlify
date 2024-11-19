@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Intelligent Control Systems (ICONS) Laboratory
+title: Intelligent Cyber-Physical Systems (iCPS) Laboratory
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,13 +10,15 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Informatics, Computing, and Cyber Systems
-  url: https://nau.edu/siccs
-- name: Northern Arizona University
-  url: https://nau.edu
+- name: Department of Electrical and Computer Engineering
+  url: https://www.ece.ucf.edu/
+- name: College of Engineering and Computer Science
+  url: https://www.cecs.ucf.edu/
+- name: University of Central Florida
+  url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-# bio: The ICONS Lab develops intelligent control systems.
+# bio: The iCPS Lab develops theory, methods, applications, and implementation of intelligent cyber-physical systems.
 
 # Interests to show in About widget
 #interests:
@@ -44,10 +46,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:truongnghiem@nau.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/truongnghiem
+  link: 'mailto:truong.nghiem@ucf.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ELMp9FMAAAAJ
@@ -66,7 +65,7 @@ social:
 #   link: media/resume.pdf
 
 # Email for Contact widget or Gravatar
-email: "truong.nghiem@nau.edu"
+email: "truong.nghiem@ucf.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,7 +74,7 @@ highlight_name: false
 #   Remove this if you are not using the People widget.
 # user_groups:
 ---
-At the Intelligent Control Systems (ICONS) Laboratory, we develop the **learning and control foundation of intelligent cyber-physical systems**, with applications in autonomous systems.
+At the Intelligent Cyber-Physical Systems (iCPS) Laboratory, we develop the **learning and control foundation of intelligent cyber-physical systems**, with applications in autonomous systems.
 <!-- we develop theory, algorithms, tools, technologies, and applications of *intelligent and high-performance control systems*. -->
 <!-- These systems are at the core of many complex and critical engineering systems. -->
 An *intelligent cyber-physical system* (iCPS) integrates deeply machine learning (ML) and artificial intelligence (AI) for decision and real-time control of a CPS to achieve *high performance*, *adaptability*, *autonomy*, and *safety*.
