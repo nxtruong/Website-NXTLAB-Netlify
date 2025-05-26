@@ -8,7 +8,7 @@
 appearance:
   theme_day: ocean # options (for both): minimal, ocean
   theme_night: # minimal, ocean
-  font: cyberpunk # options: native, minimal, rose, cyberpunk, 'Mr Robot', classic
+  font: native # options: native, minimal, rose, cyberpunk [tech looking], 'Mr Robot', classic
   font_size: m
 
 # SEO
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/nxtruong/NAU-NXTLAB-Netlify'
+    url: 'https://github.com/nxtruong/Website-NXTLAB-Netlify'
     content_dir: content
     branch: main
   avatar:
