@@ -6,7 +6,7 @@ title: Andrew Mitchell
 superuser: false
 
 # Role/position/tagline
-role: Undergraduate Research Assistant
+role: MS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,6 +59,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
 user_groups:
-- Undergraduate Students
+- Graduate Students
 ---
 Andrew Mitchell is an Undergraduate Computer Science Student in the [College of Engineering and Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). He is an Undergraduate Research Assistant at the [Intelligent Cyber-Physical Systems (iCPS) Laboratory](http://nxtlab.org).

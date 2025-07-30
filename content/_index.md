@@ -23,7 +23,7 @@ sections:
         Our research is both _**fundamental**_ and _**applied**_.  The bedrock of our research is a *fundamental research thrust* that advances the theoretical and algorithmic foundation of learning and control of iCPS.  Our *practical research thrusts* focus on developing smart and autonomous systems in various application domains and on building cyberinstructures for iCPS.
         
         The iCPS Lab is in the [Department of Electrical and Computer Engineering](https://www.ece.ucf.edu/), [College of Engineering and Computer Science](https://www.cecs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/) (UCF).
-        We are also affiliated with the [School of Modeling, Simulation, and Training](https://www.cecs.ucf.edu/smst/).
+        We are also affiliated with the [School of Modeling, Simulation, and Training](https://www.cecs.ucf.edu/smst/) and the [Department of Computer Science](https://www.cs.ucf.edu/).
 
         <!-- [**Learn more about our research**](research) or [**join our lab**](#join) -->
 

@@ -1,34 +1,38 @@
 ---
 # Display name
-title: Juan Carlos Tique Rangel
+title: Trinh Tran
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Graduate Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Informatics, Computing, and Cyber Systems
-  url: https://nau.edu/siccs
-- name: Northern Arizona University
-  url: https://nau.edu
+- name: Department of Electrical and Computer Engineering
+  url: https://www.ece.ucf.edu/
+- name: College of Engineering and Computer Science
+  url: https://www.cecs.ucf.edu/
+- name: University of Central Florida
+  url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Juan Rangel is a graduate student in the iCPS Lab.
+bio: Trinh Tran is a graduate student in the iCPS Lab.
 
 # Interests to show in About widget
 interests:
-  - Control systems
-  - Robotics
+  - Optimization
+  - AI/Machine learning and control
+  - Multi-agent control systems
+  - Cyber-physical systems
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Electronic Engineering
-    institution: Universidad de Ibague (Colombia)
-    year: 2021
+  - course: BSc in Control Engineering and Automation
+    institution: Hanoi University of Science and Technology (Vietnam)
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jct382@nau.edu'
+  link: 'mailto:tr586225@ucf.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/truongnghiem
-# - icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/drtxn/
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=ELMp9FMAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/trinh-tran-536b58170/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ukJX3HgAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/nxt-lab
@@ -60,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Email for Contact widget or Gravatar
-email: "jct382@nau.edu"
+email: "tr586225@ucf.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -70,4 +74,4 @@ highlight_name: false
 user_groups:
 - Graduate Students
 ---
-Juan Carlos Tique is an Electronic Engineer from the Universidad de Ibague in Colombia.  After graduation, he achieved some experience in multiple robotics fields, in hardware and software, using tools like ROS and ROS 2, Gazebo for simulation and Rviz for visualization. Currently he is pursuing his master's degree in Electrical and Computer Engineering at NAU.  His research interests include model predictive control, artificial intelligence, path planning and multi robot systems.
+Trinh Tran is a Ph.D. student in Electrical Engineering at the [University of Central Florida](https://www.ucf.edu/), advised by [Dr. Truong X. Nghiem](https://truong.nxtlab.org/). She received her BSc (Honors) with a specialization in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/). Before joining UCF, she worked as a Guidance, Navigation, and Controls Engineer at [Viettel Aerospace Institute](https://viettelaerospace.vn/en).

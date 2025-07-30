@@ -6,7 +6,7 @@ title: Binh Nguyen
 superuser: false
 
 # Role/position/tagline
-role: Postdoc Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:binh.bkhn91@gmail.com'
+  link: 'mailto:thanhbinh.nguyen@ucf.edu'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/binh-nguyen-7b4932177/
@@ -56,7 +56,7 @@ social:
   link: https://github.com/EasternBoy
 
 # Email for Contact widget or Gravatar
-email: "binh.bkhn91@gmail.com"
+email: "thanhbinh.nguyen@ucf.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
 user_groups:
-- Postdoc Researchers
+- Postdoctoral Researchers
 ---
 Dr. Binh Nguyen holds a postdoctoral position in the [Department of Electrical and Computer Engineering](https://www.ece.ucf.edu/)
 
