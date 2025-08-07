@@ -1,22 +1,11 @@
 ---
 title: "Lab Policy on Authorship and First Authorship"
-subtitle: ""
-summary: ""
 authors: [lab]
 categories: [policy]
 date: 2025-08-01
 lastmod: 2025-08-01
 featured: false
 draft: false
-toc: true
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
 ---
 
 {{< toc >}}
