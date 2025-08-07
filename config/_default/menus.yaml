@@ -25,6 +25,9 @@ main:
   - name: People
     url: people
     weight: 60
+  - name: Policies
+    url: policies
+    weight: 70
   - name: Contact
     url: '#contact'
     weight: 80
