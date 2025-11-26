@@ -31,6 +31,11 @@ main:
   - name: Misc
     url: misc
     weight: 75
+    hasChildren: true
+  - parent: Misc
+    name: Upcoming Events
+    url: misc/upcoming
+    weight: 10
   - name: Contact
     url: '#contact'
     weight: 80
