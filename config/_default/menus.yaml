@@ -28,6 +28,9 @@ main:
   - name: Policies
     url: policies
     weight: 70
+  - name: Misc
+    url: misc
+    weight: 75
   - name: Contact
     url: '#contact'
     weight: 80
