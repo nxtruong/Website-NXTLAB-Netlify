@@ -13,7 +13,7 @@ sections:
       text: |
         ## Spring/Summer 2026
         ### Control Conferences
-        - ACC : MAY 26-29, 2026 / New Orleans, LA / Papers Due **SEP 26, 2025** / https://acc2026.a2c2.org/ 
+        - ACC : May 26-29, 2026 / New Orleans, LA / Papers Due **SEP 26, 2025** / https://acc2026.a2c2.org/ 
         - ECC : July 7-10, 2026 / Reykjavík, Iceland / Papers Due **OCT 31, 2025** / https://ecc26.euca-ecc.org
         - L4DC : June 17-19, 2026 / University of Southern California / Papers due **NOV 10, 2025** / https://sites.google.com/usc.edu/l4dc2026/
         - CCTA : August 12-14, 2026 / Vancouver, BC, Canada / Papers due **FEB 8, 2026** / https://ccta2026.ieeecss.org/
@@ -39,5 +39,35 @@ sections:
 
         ### Machine Learning / AI
         - NeurIPS : TBD
+  - block: markdown
+    content:
+      title: Upcoming Conferences 2027
+      text: |
+        ## Spring/Summer 2027
+        ### Control Conferences
+        - ACC : July 6-9, 2027 / Philadelphia, PA / Papers Due **SEP 25, 2026** / https://acc2027.a2c2.org/
+        - ECC : July 13-16, 2027 / Brussels, Belgium / Papers Due **OCT 31, 2026** / https://ecc27.euca-ecc.org/
+        - L4DC : TBD
+        - CCTA : TBD
+        
+        ### Robotics Conferences
+        - ICRA : May 24-28, 2027 / Seoul, South Korea / Papers Due **TBD, expected SEP 2026** / TBD
+        - RSS : TBD
 
+        ### Cyber-Physical Systems
+        - CPS/IoT Week : TBD
+
+        ### Machine Learning / AI
+        - AAAI : TBD
+        - ICLR : TBD
+
+        ## Fall 2027
+        ### Control Conferences
+        - CDC : TBD
+
+        ### Robotics Conferences
+        - IROS : TBD
+
+        ### Machine Learning / AI
+        - NeurIPS : TBD
 ---
