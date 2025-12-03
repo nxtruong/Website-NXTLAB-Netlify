@@ -8,6 +8,8 @@ featured: false
 draft: false
 ---
 
+*Last update: 2025-08-01*
+
 {{< toc >}}
 
 This policy outlines the expectations for authorship on research papers produced in our lab. It is intended for all members—faculty, postdocs, PhD students, MS students, and undergraduates. Our goal is to ensure transparency, fairness, and professionalism in the publication process, in alignment with academic standards.
