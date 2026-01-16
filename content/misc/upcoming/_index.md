@@ -19,7 +19,7 @@ sections:
         | L4DC: June 17-19 / University of Southern California / Due **NOV 10, 2025** / https://sites.google.com/usc.edu/l4dc2026/ | ICRA: June 1-5 / Vienna, Austria / Due **SEP 15, 2025** / https://2026.ieee-icra.org/ | | |
         | | RSS: July 13-17 / Sydney, Australia / Due **JAN 30, 2026** / https://roboticsconference.org/ | | |
         | CCTA: Aug 12-14 / Vancouver, BC / Due **FEB 8, 2026** / https://ccta2026.ieeecss.org/ <br> IFAC WC: Aug 23-28 / Busan, Republic of Korea / Due **DEC 5, 2025** / https://ifac2026.org | | | |
-        | | IROS: Sep 27-Oct 1 / Pittsburgh, USA / Due **MAR 6, 2026** | | |
+        | | IROS: Sep 27-Oct 1 / Pittsburgh, USA / Due **MAR 2, 2026** / https://2026.ieee-iros.org/ | | |
         | CDC: Dec 15-18 / Honolulu, Hawaii / Due **MAR 31, 2026** / https://cdc2026.ieeecss.org/ |  |  | NeurIPS: TBD |
   - block: markdown
     content:

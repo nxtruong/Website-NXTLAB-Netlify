@@ -31,6 +31,7 @@ sections:
       title: Alumni
       text: |
         ## Graduate student alumni
+        1. Ivanna Dovbysh: MS student in Electrical Engineering at University of Central Florida, worked in the lab in Fall 2025.
         1. Juan Carlos Tique Rangel: MS student in Electrical Engineering at Northern Arizona University, graduated 2025, now PhD student in Computer Science at Lehigh University.
         1. Nam Nguyen: MS student in Electrical Engineering at Northern Arizona University, graduated 2025, now PhD student in Electrical Engineering with our lab at UCF.
         1. Cody Beck: MS student in Computer Science at Northern Arizona University, graduated 2024, now machine learning engineer at Nuclearn.
