@@ -11,4 +11,6 @@ sections:
         - The [Lab Manual](lab-manual.pdf) (PDF) is the main handbook of all general policies of the lab.  All lab members, especially new members, must read, understand, and follow the policies in the Lab Manual.  Current lab members should refer to the manual whenever they have any policy questions.
         - [Lab Policy on Authorship and First Authorship](authorship): policy related to authorship and first authorship on publications.
         - [Lab Policy on AI Use](AI-use): policy related to use of AI in research.
+        - [Lab Guidelines for LaTeX](latex-guidelines): guidelines on writing papers / documents in LaTeX, especially for collaborative work.
+        - [Lab Guidelines for Graphics in Publications](graphics-guidelines): guidelines on creating high-quality graphics for publications, particularly for LaTeX.
 ---
