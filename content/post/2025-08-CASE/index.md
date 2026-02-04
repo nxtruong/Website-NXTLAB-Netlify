@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A postdoctoral scholar and an MS student joined"
+title: "Paper at IEEE CASE 2025"
 subtitle: ""
-summary: "Dr. Praveen Ayyanathan and Ivanna Dovbysh joined our lab in September 2025."
+summary: "A paper at the 2025 IEEE International Conference on Automation Science and Engineering (CASE)."
 authors: [lab]
-tags: [student,postdoc,2025]
+tags: [paper,2025]
 categories: [news]
-date: 2025-09-15
-lastmod: 2025-09-15
+date: 2025-08-20
+lastmod: 2025-08-20
 featured: false
 draft: false
 
@@ -27,9 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-We welcomed Dr. Praveen Jawaharlal Ayyanathan to our research lab as a postdoctoral scholar.  He will be leading our efforts in developing autonomous UAVs for complex, GPS-denied forest environments, as part of our USDA NIFA-funded project.
-
-Ivanna Dovbysh joined us as a master’s student.  A Fulbright scholar, Ivanna will be working on perception and sensor fusion for autonomous UAVs.
-
-Hope you will all have a great time and success in our lab and in your studies / research.
+We had a paper presented at the 2025 IEEE International Conference on Automation Science and Engineering (CASE) in Los Angeles, California, USA.
+The paper is titled "CRADLE: Cooperative Adaptive Decentralized Learning and Execution for UAV network to monitor Wildfire Front" and is a collaboration with Prof. Hung (Jim) La at the University of Nevada, Reno.
+Dr. Binh Nguyen (our postdoc) and Prof. Truong Nghiem are coauthors in the paper.
