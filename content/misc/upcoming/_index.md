@@ -29,7 +29,7 @@ sections:
         |---------|----------|------------------------|----------------------|
         | | | | AAAI: Jan 16-23, 2027 / Montreal, Canada / Due **AUG 1, 2026** |
         | | | | ICLR: TBD |
-        | | ICRA: May 24-28 / Seoul, South Korea / Due **TBD, expected SEP 2026** | CPS/IoT Week: TBD | |
+        | | ICRA: May 24-28 / Seoul, South Korea / Due **TBD, expected SEP 2026** | CPS/IoT Week: TBD / New York, USA / Due **expected Nov 2026** | |
         | L4DC: TBD | | | |
         | ACC: July 6-9 / Philadelphia, PA / Due **SEP 25, 2026** / https://acc2027.a2c2.org/ | RSS: TBD | | |
         | CCTA: TBD | | | |
